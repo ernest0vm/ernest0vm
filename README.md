@@ -10,12 +10,12 @@ I have 12 years of experience in the End-To-End design of high-impact technologi
 
 ### 🙋🏻‍♂️ Talking about personal stuffs
 
-- I'm working as **Lead Mobile Developer** at [reservamos.com](https://reservamos.com).
-- I'm currently learning fullstack development on [Microsoft LaunchX](https://github.com/LaunchX-InnovaccionVirtual) bootcamp.
-- I have B1 - intermediate english level.
-- Ask me about anything, i'm happy to help.
-- How to reach me: [whatsapp](https://wa.me/525516823244)
-- Visit my [resume webpage](https://ernest0vm.github.io/resume/)
+- 🧑🏻‍💻 I'm working as **Lead Mobile Developer** at [reservamos.com](https://reservamos.com).
+- 🚀 I'm currently learning fullstack development on [Microsoft LaunchX](https://github.com/LaunchX-InnovaccionVirtual) bootcamp.
+- 🏅 I have [B1 - intermediate](https://www.efset.org/cert/dPumga) english level.
+- 💬 Ask me about anything, i'm happy to help.
+- 📱 How to reach me: [whatsapp](https://wa.me/525516823244)
+- 🖥 Visit my [resume webpage](https://ernest0vm.github.io/resume/)
 
 
 ### 📈 My Stats
