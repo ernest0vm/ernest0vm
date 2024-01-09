@@ -11,7 +11,7 @@ I have 13 years of experience in the End-To-End design of high-impact technologi
 ### 🙋🏻‍♂️ Talking about personal stuffs
 
 - 🧑🏻‍💻 I'm working as **Lead Mobile Developer** at [reservamos.com](https://reservamos.com).
-- 🚀 I'm currently learning fullstack development on [Microsoft LaunchX](https://github.com/LaunchX-InnovaccionVirtual) bootcamp.
+- 🚀 I finished the fullstack development bootcamp on [Microsoft LaunchX](https://github.com/LaunchX-InnovaccionVirtual).
 - 🏅 I have [B1 - intermediate](https://www.efset.org/cert/dPumga) english level.
 - 💬 Ask me about anything, i'm happy to help.
 - 📱 How to reach me: [whatsapp](https://wa.me/525516823244)
@@ -19,4 +19,4 @@ I have 13 years of experience in the End-To-End design of high-impact technologi
 
 
 ### 📈 My Stats
-<img height="215em" src="https://github-readme-stats.vercel.app/api?username=ernest0vm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernest0vm&layout=compact&langs_count=10)](https://github.com/ernest0vm/ernest0vm)
+<img height="215em" src="https://github-readme-stats-fbw117sqa-ernestos-projects-b42bf259.vercel.app/api?show_icons=true&hide_border=true&include_all_commits=true&count_private=true&username=ernest0vm" /> [![Top Langs](https://github-readme-stats-fbw117sqa-ernestos-projects-b42bf259.vercel.app/api/top-langs/?layout=compact&username=ernest0vm&langs_count=10&count_private=true)](https://github.com/ernest0vm/ernest0vm)
